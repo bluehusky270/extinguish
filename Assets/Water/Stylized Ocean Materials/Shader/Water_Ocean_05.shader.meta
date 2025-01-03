@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4295fca92e9efc547a430eab2774eda9
+timeCreated: 1552242426
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _Higlight: {fileID: 2800000, guid: 3a5a96df060a5cf4a9cc0c59e13486b7, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
